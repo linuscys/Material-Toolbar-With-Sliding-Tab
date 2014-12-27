@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Material-Toolbar-With-Sliding-Tab</string>
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section3">Section 3</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_name">Material Sample</string>
+
+    <string-array name="navigation_drawer_items">
+        <item>Sliding Tab</item>
+        <item>Simple 1</item>
+        <item>Simple 2</item>
+    </string-array>
+
+    <string-array name="sliding_tab_items">
+        <item>Category</item>
+        <item>Home</item>
+        <item>Applications</item>
+        <item>Games</item>
+        <item>Gossiping</item>
+    </string-array>
+
     <string name="action_example">Example action</string>
     <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
